@@ -5,7 +5,7 @@
 
 <body>
 
-<h1>Welcome to CI/CD Pipeline Demo</h1>
+<h1>simple CI/CD application</h1>
 
 <a href="hello">Click Here</a>
 
